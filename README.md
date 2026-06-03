@@ -1,0 +1,1 @@
+Black Roast Coffee is a modern, frontend-only e-commerce website built with React and Vite. It features a premium dark-themed UI for showcasing and selling specialty black coffee products. The project includes a responsive design, product browsing, cart functionality using React Context API, and a smooth shopping experience with mock data—no backend required.
